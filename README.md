@@ -2,18 +2,43 @@
 
 本项目已更新，请移步到[这里](https://github.com/allmachinelearning/MachineLearning)参与我们最新的机器学习开源项目
 
+# 机器学习资源 Machine learning Resources
+
 **致力于分享最新最全面的机器学习资料，欢迎你成为贡献者!**
 
 *快速开始学习：* 
-- 周志华的[《机器学习》](https://pan.baidu.com/s/1hscnaQC)作为通读教材，不用深入，大概了解机器学习来龙去脉
-- 李航的[《统计学习方法》](https://pan.baidu.com/s/1dF2b4jf)作为经典的深入案例，仔细研究几个算法的来龙去脉
+- 周志华的[《机器学习》](https://pan.baidu.com/s/1hscnaQC)作为通读教材，不用深入，从宏观上了解机器学习
+
+- 李航的[《统计学习方法》](https://pan.baidu.com/s/1dF2b4jf)作为经典的深入案例，仔细研究几个算法的来龙去脉 | [书中的代码实现](https://github.com/WenDesi/lihang_book_algorithm)
+
 - 使用Python语言，根据[《机器学习实战》](https://pan.baidu.com/s/1gfzV7PL)快速上手写程序
-- 参照Youtube机器学习红人Siraj Raval的视频+代码可以帮助你更好地进入状态！[原Youtube地址需要梯子]((https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D))|[百度网盘](https://pan.baidu.com/s/1jICGJFg)
-- 最后，你可能想真正实战一下。那么，请到注明的机器学习竞赛平台Kaggle上做一下这些基础入门的[题目](https://www.kaggle.com/competitions?sortBy=deadline&group=all&page=1&pageSize=20&segment=gettingStarted)吧！(Kaggle上对于每个问题你都可以看到别人的代码，方便你更加快速地学习) | [Kaggle介绍及入门解读](https://zhuanlan.zhihu.com/p/25686876)
+
+- 吴恩达的最新深度学习课程资源：https://www.jiqizhixin.com/articles/2018-06-21-6
+
+- 参照Youtube机器学习红人Siraj Raval的视频+代码可以帮助你更好地进入状态！
+    - [原Youtube地址需要梯子](https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D) | [百度网盘](https://pan.baidu.com/s/1jICGJFg)
+    
+- 来自国立台湾大学李宏毅老师的机器学习和深度学习中文课程，强烈推荐：[课程](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
+
+- 最后，你可能想真正实战一下。那么，请到注明的机器学习竞赛平台Kaggle上做一下这些基础入门的[题目](https://www.kaggle.com/competitions?sortBy=deadline&group=all&page=1&pageSize=20&segment=gettingStarted)吧！(Kaggle上对于每个问题你都可以看到别人的代码，方便你更加快速地学习)  [Kaggle介绍及入门解读](https://zhuanlan.zhihu.com/p/25686876) [可以用来练手的数据集](https://www.kaggle.com/annavictoria/ml-friendly-public-datasets/notebook)
+
+其他有用的资料：
+
+- 想看别人怎么写代码？[机器学习经典教材《PRML》所有代码实现](https://github.com/ctgk/PRML)
+
+- [机器学习算法Python实现](https://github.com/lawlite19/MachineLearning_Python)
+
+- [吴恩达新书：Machine Learning Yearning中文版](https://pan.baidu.com/s/10kosKx6rDguS4tPejY-fRw)
+
 - 另外，对于一些基础的数学知识，你看[深度学习(花书)中文版](https://github.com/exacity/deeplearningbook-chinese)就够了。这本书同时也是**深度学习**经典之书。
 
+- 来自南京大学周志华小组的博士生写的一本小而精的[解析卷积神经网络—深度学习实践手册](http://lamda.nju.edu.cn/weixs/book/CNN_book.html)
 
 - - -
+
+[一个简洁明了的时间序列处理(分窗、特征提取、分类)库：Seglearn](https://dmbee.github.io/seglearn/index.html)
+
+[计算机视觉这一年：这是最全的一份CV技术报告](https://zhuanlan.zhihu.com/p/31430602)
 
 [深度学习(花书)中文版](https://github.com/exacity/deeplearningbook-chinese)
 
@@ -30,10 +55,35 @@
 [Learning Machine Learning? Six articles you don’t want to miss](http://www.ibmbigdatahub.com/blog/learning-machine-learning-six-articles-you-don-t-want-miss)
 
 [Getting started with machine learning documented by github](https://github.com/collections/machine-learning)
+
 - - -
 
 
-##  预备知识 Prerequisite
+## 研究领域资源细分
+
+- ### [深度学习 Deep learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+
+- ### [强化学习 Reinforcement learning](https://github.com/aikorea/awesome-rl)
+
+- ### [迁移学习 Transfer learning](https://jindongwang.github.io/transferlearning/)
+
+- ### [分布式学习系统 Distributed learning system](https://github.com/theanalyst/awesome-distributed-systems)
+
+- ### [计算机视觉/机器视觉 Computer vision / machine vision](https://github.com/jbhuang0604/awesome-computer-vision)
+
+- ### [自然语言处理 Natural language procesing](https://github.com/Nativeatom/NaturalLanguageProcessing)
+
+- ### 语音识别 Speech recognition
+
+- ### [生物信息学 Bioinfomatics](https://github.com/danielecook/Awesome-Bioinformatics)
+
+- ### [行为识别 Activity recognition](https://github.com/jindongwang/activityrecognition)
+
+- ### [多智能体 Multi-Agent](http://ddl.escience.cn/f/ILKI)
+
+- - -
+
+##  开始学习：预备知识 Prerequisite
 
 - [学习知识与路线图](https://metacademy.org/)
 
@@ -84,38 +134,6 @@
 - - -
 
 
-## 理论 Theory
-
-- ### 深度学习 Deep learning
-
-- ### [强化学习 Reinforcement learning](https://github.com/allmachinelearning/ReinforcementLearning)
-
-- ### [迁移学习 Transfer learning](https://jindongwang.github.io/transferlearning/)
-
-- ### [分布式学习系统 Distributed learning system](https://github.com/allmachinelearning/Deep-Learning-System-Design)
-
-- - -
-
-
-## 应用 Applications
-
-- ### 计算机视觉/机器视觉 Computer vision / machine vision
-
-- ### [自然语言处理 Natural language procesing](https://github.com/Nativeatom/NaturalLanguageProcessing)
-
-- ### 语音识别 Speech recognition
-
-- ### 生物信息学 Bioinfomatics
-
-- ### 医疗 Medical
-
-- ### [行为识别 Activity recognition](https://github.com/jindongwang/activityrecognition)
-
-- ### [人工智能(多智能体) Artificial Intelligence(Multi-Agent)](http://ddl.escience.cn/f/ILKI)
-
-- - -
-
-
 ## 文档 notes
 
 - [综述文章汇总](https://github.com/allmachinelearning/MachineLearning/blob/master/notes/survey_readme.md)
@@ -145,6 +163,8 @@
 
 ### 机器学习 Machine Learning
  
+[台湾大学应用深度学习课程](https://www.csie.ntu.edu.tw/~yvchen/f106-adl/index.html)
+
 - [神经网络，机器学习，算法，人工智能等 30 门免费课程详细清单](http://www.datasciencecentral.com/profiles/blogs/neural-networks-for-machine-learning)
   
 - [斯坦福机器学习入门课程](https://www.coursera.org/learn/machine-learning)，讲师为Andrew Ng，适合数学基础一般的人，适合入门，但是学完会发现只是懂个大概，也就相当于什么都不懂。省略了很多机器学习的细节
@@ -356,7 +376,10 @@
 #### [贡献者 Contributors](https://github.com/allmachinelearning/MachineLearning/blob/master/contributors.md)
 
 
-> ***[文章版权声明]这个仓库是我开源到Github上的，可以遵守相关的开源协议进行使用。这个仓库中包含有很多研究者的论文、硕博士论文等，都来源于在网上的下载，仅作为学术研究使用。我对其中一些文章都写了自己的浅见，希望能很好地帮助理解。这些文章的版权属于相应的出版社。如果作者或出版社有异议，请联系我进行删除（本来应该只放文章链接的，但是由于时间关系来不及）。一切都是为了更好地学术！***
+
+
+
+
 
 
 
