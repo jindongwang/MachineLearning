@@ -1,10 +1,6 @@
 # 机器学习资源 Machine learning Resources
 
-本项目已更新，请移步到[这里](https://github.com/allmachinelearning/MachineLearning)参与我们最新的机器学习开源项目
-
-# 机器学习资源 Machine learning Resources
-
-**致力于分享最新最全面的机器学习资料，欢迎你成为贡献者!**
+*本项目已更新，请移步到[这里](https://github.com/allmachinelearning/MachineLearning)参与我们最新的机器学习开源项目。*
 
 *快速开始学习：* 
 - 周志华的[《机器学习》](https://pan.baidu.com/s/1hscnaQC)作为通读教材，不用深入，从宏观上了解机器学习
